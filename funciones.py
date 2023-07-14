@@ -7,11 +7,18 @@
 import os
 os.system("cls")
 
-def funcion1 ():
-    pass
-def funcion2 ():
-    pass
-def funcion3 ():
-    pass
-def funcion4 ():
-    pass
+def suma (a,b):
+    c = a + b
+    print (c)
+def resta (a,b):
+    c = a - b
+    print (c)
+def multi (a,b):
+    c = a * b
+    print (c)
+def division (a,b):
+    c = a / b
+    print (c)
+
+#   >>>>>>>>>>>>>> calculadora>>>>>>>>>>>>>>>>>>
+
